@@ -42,3 +42,16 @@ This portfolio highlights a collection of projects centered around building and 
      - Evaluated model performance using metrics such as accuracy, precision, and recall.
      - Selected the most effective machine learning model based on performance comparisons.
 - **Outcome:** Determined the best performing model for survival prediction, optimizing the overall prediction process.
+
+---
+
+### Portfolio 4: Customer Segmentation with K-Means and Hierarchical Clustering
+
+- **Objective:** Apply unsupervised machine learning techniques to segment supermarket customers and generate data-driven insights that support personalised marketing strategies and business decision-making.
+- **Process:**
+   - Performed exploratory data analysis (EDA) to understand demographic, socioeconomic, and behavioural trends across 2,000 consumer records.
+   - Conducted feature selection and data preprocessing, including standardisation and removal of non-informative attributes.
+   - Built and evaluated scalable clustering pipelines using K-Means and Hierarchical Clustering to identify distinct customer segments.
+   - Compared clustering outputs, visualised results, and analysed cluster characteristics to ensure interpretability and business relevance.
+   - Translating analytical findings into actionable business insights and targeted recommendations.
+- **Outcome:** Defined four meaningful customer segments and provided strategy-driven marketing recommendations for each cluster. Demonstrated the ability to translate machine learning outputs into real-world business solutions, supporting data-informed decision-making and customer engagement improvements.
