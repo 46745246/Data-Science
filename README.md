@@ -1,6 +1,6 @@
 # Data Science Projects
 
-This portfolio highlights a collection of projects centered around building and evaluating predictive models using diverse datasets, such as user ratings and the Titanic survival dataset. These projects showcase expertise in data preprocessing, feature selection, model development, and performance evaluation. The goal is to deliver accurate predictions by applying the most suitable machine learning algorithms tailored to each dataset.
+This portfolio highlights a collection of projects centered around building and evaluating predictive models using diverse datasets. These projects showcase expertise in data preprocessing, feature selection, model development, and performance evaluation. The goal is to deliver accurate predictions by applying the most suitable machine learning algorithms tailored to each dataset.
 
 ---
 
