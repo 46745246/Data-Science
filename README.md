@@ -55,3 +55,17 @@ This portfolio highlights a collection of projects centered around building and 
    - Compared clustering outputs, visualised results, and analysed cluster characteristics to ensure interpretability and business relevance.
    - Translating analytical findings into actionable business insights and targeted recommendations.
 - **Outcome:** Defined four meaningful customer segments and provided strategy-driven marketing recommendations for each cluster. Demonstrated the ability to translate machine learning outputs into real-world business solutions, supporting data-informed decision-making and customer engagement improvements.
+
+---
+
+### Portfolio 5: Airbnb Price Prediction
+
+- **Objective:** Develop a predictive model to estimate Airbnb listing prices using structured property and host data.
+- **Process:**
+   - Conducted EDA to identify patterns in pricing, availability, reviews, and property characteristics.
+   - Cleaned the data, addressed missing values, and removed redundant features to improve model reliability.
+   - Engineered features such as normalised review rates and simplified availability indicators to enhance model interpretability.
+   - Built supervised learning models including Linear Regression, Random Forest, and XGBoost, and tuned hyperparameters for improved accuracy.
+   - Evaluated performance using RMSE, MAE, and R²
+- **Outcome:** The model achieved strong predictive accuracy and provided insights into factors influencing Airbnb prices, including location, room type, and availability patterns. Opportunities for improvement include implementing thorough preprocessing like systematic outlier handling, proper categorical encoding, and feature relevance analysis to fully captures the underlying patterns in the data.
+
