@@ -60,7 +60,7 @@ This portfolio highlights a collection of projects centered around building and 
 
 ### Portfolio 5: Airbnb Price Prediction
 
-- **Objective:** Develop a predictive model to estimate Airbnb listing prices using structured property and host data.
+- **Objective:** Develop a predictive model to estimate Airbnb listing prices using structured property and host data in a group of 3.
 - **Process:**
    - Conducted EDA to identify patterns in pricing, availability, reviews, and property characteristics.
    - Cleaned the data, addressed missing values, and removed redundant features to improve model reliability.
